@@ -1,0 +1,1145 @@
+{
+  "errors_dataset": null,
+  "features": [
+    {
+      "errors_feature": [
+        {
+          "code": 701,
+          "description": "CELLS_OVERLAP",
+          "id": "NON-NAVI-S3 and NON-NAVI-M1",
+          "info": "",
+          "type": "Error"
+        }
+      ],
+      "id": "s20e31e4-137e-61cf-539e-897c06737748",
+      "primitives": [
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CORRIDOR1",
+          "numberfaces": 74,
+          "numbershells": 1,
+          "numbervertices": 127,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CORRIDOR2",
+          "numberfaces": 46,
+          "numbershells": 1,
+          "numbervertices": 88,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR1",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR2",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR3",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR4",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR6",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR7",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR8",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR9",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR10",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR11",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR12",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR13",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR14",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR15",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR16",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR17",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR18",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR19",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR20",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR21",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR22",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR23",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR24",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR25",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR26",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-DOOR27",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-B1",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C1",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C2",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C3",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C4",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C6",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C7",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C8",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-C9",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-M1",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-M2",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S1",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S2",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S3",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S4",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S6",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S7",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S8",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S9",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S10",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S11",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": null,
+          "id": "CG-NON-NAVI-S12",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM1",
+          "numberfaces": 12,
+          "numbershells": 1,
+          "numbervertices": 20,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM2",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM3",
+          "numberfaces": 14,
+          "numbershells": 1,
+          "numbervertices": 24,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM4",
+          "numberfaces": 20,
+          "numbershells": 1,
+          "numbervertices": 36,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM6",
+          "numberfaces": 8,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM7",
+          "numberfaces": 8,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM8",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM9",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM10",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM11",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM12",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM13",
+          "numberfaces": 14,
+          "numbershells": 1,
+          "numbervertices": 24,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM14",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM15",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM16",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM17",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM18",
+          "numberfaces": 12,
+          "numbershells": 1,
+          "numbervertices": 20,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM19",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM20",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM21",
+          "numberfaces": 8,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM22",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-ROOM23",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        }
+      ],
+      "type": "IndoorModel",
+      "validity": false
+    }
+  ],
+  "input_file": "KU-Central-Plaza-IndoorGML-PS-without-Texture-04-26-corrected.gml",
+  "invalid_features": 1,
+  "invalid_primitives": 52,
+  "overlap_tol": -1.0,
+  "overview_errors": [
+    405,
+    701
+  ],
+  "overview_features": [
+    "IndoorModel"
+  ],
+  "overview_primitives": [
+    "Solid"
+  ],
+  "planarity_d2p_tol": 0.01,
+  "planarity_n_tol": 20.0,
+  "snap_tol": 0.001,
+  "time": "Thu Apr  2 10:06:27 2020 CEST",
+  "total_features": 1,
+  "total_primitives": 76,
+  "type": "val3dity report",
+  "val3dity_version": "beta 2.2",
+  "valid_features": 0,
+  "valid_primitives": 24
+}
