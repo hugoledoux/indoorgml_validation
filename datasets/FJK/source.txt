@@ -1,0 +1,2 @@
+
+From [official IndoorGML page](http://indoorgml.net/resources/), which has a link to a [GitHub repository](https://github.com/STEMLab/indoorgml-dev/tree/master/sample-data)

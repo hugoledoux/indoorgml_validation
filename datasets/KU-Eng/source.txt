@@ -1,0 +1,2 @@
+
+From [official IndoorGML page](http://indoorgml.net/resources/), which has a link to an [OGC FTP](ftp://indoor-pilot:2018.Indoor.Layout@ftp.opengis.org/IndoorGML%20Data/KU-EngBuilding-IndoorGML-2019-02-12/KU-EngBuilding-IndoorGML-2019-02-12_with NRG.gml)

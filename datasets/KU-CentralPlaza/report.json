@@ -1135,11 +1135,11 @@
   "planarity_d2p_tol": 0.01,
   "planarity_n_tol": 20.0,
   "snap_tol": 0.001,
-  "time": "Thu Apr  2 10:06:27 2020 CEST",
+  "time": "Sun Apr  5 09:36:23 2020 CEST",
   "total_features": 1,
   "total_primitives": 76,
   "type": "val3dity report",
-  "val3dity_version": "beta 2.2",
+  "val3dity_version": "2.2.0-beta.1",
   "valid_features": 0,
   "valid_primitives": 24
 }

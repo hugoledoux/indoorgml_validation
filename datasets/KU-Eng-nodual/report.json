@@ -1,0 +1,207 @@
+{
+  "errors_dataset": null,
+  "features": [
+    {
+      "errors_feature": [
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace1 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace2 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace3 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace4 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace5 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace6 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=cellspace7 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        }
+      ],
+      "id": "if1",
+      "primitives": [
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace1g",
+          "numberfaces": 27,
+          "numbershells": 1,
+          "numbervertices": 50,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace2g",
+          "numberfaces": 16,
+          "numbershells": 1,
+          "numbervertices": 28,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 302,
+              "description": "SHELL_NOT_CLOSED",
+              "id": "",
+              "info": "Location hole: (-11.574, 39.956, 2.39)",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace3g",
+          "numberfaces": 17,
+          "numbershells": 1,
+          "numbervertices": 31,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace4g",
+          "numberfaces": 12,
+          "numbershells": 1,
+          "numbervertices": 20,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace5g",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace6g",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 405,
+              "description": "WRONG_ORIENTATION_SHELL",
+              "id": "i",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "cellspace7g",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        }
+      ],
+      "type": "IndoorModel",
+      "validity": false
+    }
+  ],
+  "input_file": "KU-EngBuilding-IndoorGML-2019-01-31.gml",
+  "invalid_features": 1,
+  "invalid_primitives": 7,
+  "overlap_tol": -1.0,
+  "overview_errors": [
+    302,
+    405,
+    704
+  ],
+  "overview_features": [
+    "IndoorModel"
+  ],
+  "overview_primitives": [
+    "Solid"
+  ],
+  "planarity_d2p_tol": 0.01,
+  "planarity_n_tol": 20.0,
+  "snap_tol": 0.001,
+  "time": "Tue Apr  7 16:26:48 2020 CEST",
+  "total_features": 1,
+  "total_primitives": 7,
+  "type": "val3dity report",
+  "val3dity_version": "2.2.0-beta.1",
+  "valid_features": 0,
+  "valid_primitives": 0
+}

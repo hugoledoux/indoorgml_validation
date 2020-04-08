@@ -2,15 +2,7 @@
   "errors_dataset": null,
   "features": [
     {
-      "errors_feature": [
-        {
-          "code": 704,
-          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
-          "id": "Cells id=C3 id=C4",
-          "info": "",
-          "type": "Error"
-        }
-      ],
+      "errors_feature": null,
       "id": "IFs",
       "primitives": [
         {
@@ -266,8 +258,7 @@
   "invalid_primitives": 12,
   "overlap_tol": -1.0,
   "overview_errors": [
-    103,
-    704
+    103
   ],
   "overview_features": [
     "IndoorModel"
@@ -278,11 +269,11 @@
   "planarity_d2p_tol": 0.01,
   "planarity_n_tol": 20.0,
   "snap_tol": 0.001,
-  "time": "Thu Apr  2 10:01:15 2020 CEST",
+  "time": "Tue Apr  7 16:25:50 2020 CEST",
   "total_features": 1,
   "total_primitives": 14,
   "type": "val3dity report",
-  "val3dity_version": "beta 2.2",
+  "val3dity_version": "2.2.0-beta.1",
   "valid_features": 0,
   "valid_primitives": 2
 }
