@@ -1,8 +1,14 @@
 {
-  "errors_dataset": null,
+  "all_errors": [
+    102,
+    104,
+    701,
+    703
+  ],
+  "dataset_errors": [],
   "features": [
     {
-      "errors_feature": [
+      "errors": [
         {
           "code": 701,
           "description": "CELLS_OVERLAP",
@@ -58794,30 +58800,30 @@
       "validity": false
     }
   ],
+  "features_overview": [
+    {
+      "total": 1,
+      "type": "IndoorModel",
+      "valid": 0
+    }
+  ],
   "input_file": "SAMPLE_DATA_LWM_3D_1.0.3.gml",
-  "invalid_features": 1,
-  "invalid_primitives": 5,
-  "overlap_tol": -1.0,
-  "overview_errors": [
-    102,
-    104,
-    701,
-    703
+  "input_file_type": "IndoorGML",
+  "parameters": {
+    "overlap_tol": -1.0,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 3496,
+      "type": "Solid",
+      "valid": 3491
+    }
   ],
-  "overview_features": [
-    "IndoorModel"
-  ],
-  "overview_primitives": [
-    "Solid"
-  ],
-  "planarity_d2p_tol": 0.01,
-  "planarity_n_tol": 20.0,
-  "snap_tol": 0.001,
-  "time": "Tue Apr  7 16:34:14 2020 CEST",
-  "total_features": 1,
-  "total_primitives": 3496,
-  "type": "val3dity report",
+  "time": "Thu Apr 23 09:02:05 2020 CEST",
+  "type": "val3dity_report",
   "val3dity_version": "2.2.0-beta.1",
-  "valid_features": 0,
-  "valid_primitives": 3491
+  "validity": false
 }
