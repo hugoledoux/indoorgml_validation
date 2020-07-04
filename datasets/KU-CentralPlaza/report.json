@@ -511,7 +511,7 @@
           "validity": false
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-B1",
           "numberfaces": 6,
           "numbershells": 1,
@@ -520,7 +520,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C1",
           "numberfaces": 6,
           "numbershells": 1,
@@ -529,7 +529,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C2",
           "numberfaces": 6,
           "numbershells": 1,
@@ -538,7 +538,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C3",
           "numberfaces": 6,
           "numbershells": 1,
@@ -547,7 +547,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C4",
           "numberfaces": 6,
           "numbershells": 1,
@@ -556,7 +556,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C5",
           "numberfaces": 6,
           "numbershells": 1,
@@ -565,7 +565,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C6",
           "numberfaces": 6,
           "numbershells": 1,
@@ -574,7 +574,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C7",
           "numberfaces": 6,
           "numbershells": 1,
@@ -583,7 +583,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C8",
           "numberfaces": 6,
           "numbershells": 1,
@@ -592,7 +592,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-C9",
           "numberfaces": 6,
           "numbershells": 1,
@@ -601,7 +601,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-M1",
           "numberfaces": 6,
           "numbershells": 1,
@@ -610,7 +610,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-M2",
           "numberfaces": 6,
           "numbershells": 1,
@@ -619,7 +619,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S1",
           "numberfaces": 6,
           "numbershells": 1,
@@ -628,7 +628,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S2",
           "numberfaces": 6,
           "numbershells": 1,
@@ -637,7 +637,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S3",
           "numberfaces": 6,
           "numbershells": 1,
@@ -646,7 +646,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S4",
           "numberfaces": 6,
           "numbershells": 1,
@@ -655,7 +655,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S5",
           "numberfaces": 6,
           "numbershells": 1,
@@ -664,7 +664,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S6",
           "numberfaces": 6,
           "numbershells": 1,
@@ -673,7 +673,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S7",
           "numberfaces": 6,
           "numbershells": 1,
@@ -682,7 +682,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S8",
           "numberfaces": 6,
           "numbershells": 1,
@@ -691,7 +691,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S9",
           "numberfaces": 6,
           "numbershells": 1,
@@ -700,7 +700,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S10",
           "numberfaces": 6,
           "numbershells": 1,
@@ -709,7 +709,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S11",
           "numberfaces": 6,
           "numbershells": 1,
@@ -718,7 +718,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-NON-NAVI-S12",
           "numberfaces": 6,
           "numbershells": 1,
@@ -1144,8 +1144,8 @@
       "valid": 24
     }
   ],
-  "time": "Wed Apr 22 10:58:50 2020 CEST",
+  "time": "Fri Jul  3 17:50:10 2020 CEST",
   "type": "val3dity_report",
-  "val3dity_version": "2.2.0-beta.1",
+  "val3dity_version": "2.2.0",
   "validity": false
 }

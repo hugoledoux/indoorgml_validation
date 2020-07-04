@@ -26,7 +26,7 @@
           "validity": false
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "sl3",
           "numberfaces": 38,
           "numbershells": 1,
@@ -35,7 +35,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "sl4",
           "numberfaces": 10,
           "numbershells": 1,
@@ -278,8 +278,8 @@
       "valid": 2
     }
   ],
-  "time": "Wed Apr 22 10:53:43 2020 CEST",
+  "time": "Fri Jul  3 17:49:37 2020 CEST",
   "type": "val3dity_report",
-  "val3dity_version": "2.2.0-beta.1",
+  "val3dity_version": "2.2.0",
   "validity": false
 }

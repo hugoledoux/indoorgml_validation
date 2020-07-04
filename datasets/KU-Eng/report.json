@@ -1,0 +1,921 @@
+{
+  "all_errors": [
+    103,
+    702,
+    703,
+    704
+  ],
+  "dataset_errors": [],
+  "features": [
+    {
+      "errors": [
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell1",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell2",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell3",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell4",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell5",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell6",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=Cell7",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell1",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell2",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell3",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell4",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell5",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell6",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=Cell7",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell1 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell2 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell3 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell4 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell5 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell6 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=Cell7 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        }
+      ],
+      "id": "2bbf58c0-6b35-4095-9217-82088b82331b",
+      "primitives": [
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "6",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "7",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "8",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "9",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "10",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "11",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "12",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "13",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "14",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "15",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "16",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "17",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "18",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "19",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "20",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "21",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "22",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "23",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "24",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "25",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "26",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell1",
+          "numberfaces": 27,
+          "numbershells": 1,
+          "numbervertices": 50,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "6",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "7",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "8",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "9",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "10",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "11",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "12",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "13",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "14",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "15",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell2",
+          "numberfaces": 16,
+          "numbershells": 1,
+          "numbervertices": 28,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "6",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "7",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "8",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "9",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "10",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "11",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "12",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "13",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "14",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "15",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "16",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell3",
+          "numberfaces": 17,
+          "numbershells": 1,
+          "numbervertices": 30,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "6",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "7",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "8",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "9",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "10",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "11",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell4",
+          "numberfaces": 12,
+          "numbershells": 1,
+          "numbervertices": 20,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "6",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "7",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "8",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "9",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell6",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 16,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "0",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "1",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "2",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "3",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "4",
+              "info": "",
+              "type": "Error"
+            },
+            {
+              "code": 103,
+              "description": "RING_NOT_CLOSED",
+              "id": "5",
+              "info": "",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-Cell7",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 8,
+          "type": "Solid",
+          "validity": false
+        }
+      ],
+      "type": "IndoorModel",
+      "validity": false
+    }
+  ],
+  "features_overview": [
+    {
+      "total": 1,
+      "type": "IndoorModel",
+      "valid": 0
+    }
+  ],
+  "input_file": "KU-EngBuilding-IndoorGML-2019-02-12_with_NRG.gml",
+  "input_file_type": "IndoorGML",
+  "parameters": {
+    "overlap_tol": -1.0,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 7,
+      "type": "Solid",
+      "valid": 0
+    }
+  ],
+  "time": "Fri Jul  3 17:50:35 2020 CEST",
+  "type": "val3dity_report",
+  "val3dity_version": "2.2.0",
+  "validity": false
+}

@@ -1,8 +1,15 @@
 {
-  "errors_dataset": null,
+  "all_errors": [
+    104,
+    401,
+    701,
+    703,
+    704
+  ],
+  "dataset_errors": [],
   "features": [
     {
-      "errors_feature": [
+      "errors": [
         {
           "code": 701,
           "description": "CELLS_OVERLAP",
@@ -14,6 +21,13 @@
           "code": 701,
           "description": "CELLS_OVERLAP",
           "id": "C62 and C60",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 701,
+          "description": "CELLS_OVERLAP",
+          "id": "C34 and C2",
           "info": "",
           "type": "Error"
         },
@@ -30,12 +44,19 @@
           "id": "Dual vertex id=S83 reference a non-existing edge/Transition",
           "info": "",
           "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cells id=C2 & id=C34",
+          "info": "",
+          "type": "Error"
         }
       ],
       "id": "ed5dd566-58b9-9175-262e-d4018528789b",
       "primitives": [
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C6",
           "numberfaces": 8,
           "numbershells": 1,
@@ -44,7 +65,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C7",
           "numberfaces": 10,
           "numbershells": 1,
@@ -53,7 +74,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C8",
           "numberfaces": 9,
           "numbershells": 1,
@@ -62,7 +83,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C9",
           "numberfaces": 7,
           "numbershells": 1,
@@ -71,7 +92,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C10",
           "numberfaces": 7,
           "numbershells": 1,
@@ -80,7 +101,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C11",
           "numberfaces": 6,
           "numbershells": 1,
@@ -89,7 +110,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C12",
           "numberfaces": 7,
           "numbershells": 1,
@@ -98,7 +119,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C13",
           "numberfaces": 6,
           "numbershells": 1,
@@ -107,7 +128,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C14",
           "numberfaces": 6,
           "numbershells": 1,
@@ -116,7 +137,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C15",
           "numberfaces": 9,
           "numbershells": 1,
@@ -125,7 +146,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C16",
           "numberfaces": 7,
           "numbershells": 1,
@@ -134,7 +155,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C17",
           "numberfaces": 13,
           "numbershells": 1,
@@ -143,7 +164,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C18",
           "numberfaces": 8,
           "numbershells": 1,
@@ -152,7 +173,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C19",
           "numberfaces": 7,
           "numbershells": 1,
@@ -161,7 +182,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C20",
           "numberfaces": 6,
           "numbershells": 1,
@@ -170,7 +191,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C21",
           "numberfaces": 6,
           "numbershells": 1,
@@ -179,7 +200,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C22",
           "numberfaces": 6,
           "numbershells": 1,
@@ -188,7 +209,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C23",
           "numberfaces": 6,
           "numbershells": 1,
@@ -197,7 +218,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C24",
           "numberfaces": 6,
           "numbershells": 1,
@@ -206,7 +227,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C25",
           "numberfaces": 20,
           "numbershells": 1,
@@ -215,7 +236,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C26",
           "numberfaces": 6,
           "numbershells": 1,
@@ -224,7 +245,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C27",
           "numberfaces": 6,
           "numbershells": 1,
@@ -233,7 +254,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C28",
           "numberfaces": 7,
           "numbershells": 1,
@@ -242,7 +263,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C29",
           "numberfaces": 16,
           "numbershells": 1,
@@ -251,7 +272,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C30",
           "numberfaces": 9,
           "numbershells": 1,
@@ -260,7 +281,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C80",
           "numberfaces": 9,
           "numbershells": 1,
@@ -269,7 +290,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C36",
           "numberfaces": 6,
           "numbershells": 1,
@@ -278,7 +299,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C37",
           "numberfaces": 6,
           "numbershells": 1,
@@ -287,7 +308,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C38",
           "numberfaces": 7,
           "numbershells": 1,
@@ -320,7 +341,7 @@
           "validity": false
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C40",
           "numberfaces": 15,
           "numbershells": 1,
@@ -329,7 +350,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C41",
           "numberfaces": 8,
           "numbershells": 1,
@@ -338,7 +359,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C42",
           "numberfaces": 6,
           "numbershells": 1,
@@ -347,7 +368,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C43",
           "numberfaces": 6,
           "numbershells": 1,
@@ -356,7 +377,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C44",
           "numberfaces": 8,
           "numbershells": 1,
@@ -365,7 +386,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C45",
           "numberfaces": 6,
           "numbershells": 1,
@@ -374,7 +395,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C46",
           "numberfaces": 6,
           "numbershells": 1,
@@ -383,7 +404,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C47",
           "numberfaces": 13,
           "numbershells": 1,
@@ -392,7 +413,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C48",
           "numberfaces": 7,
           "numbershells": 1,
@@ -401,7 +422,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C49",
           "numberfaces": 7,
           "numbershells": 1,
@@ -410,7 +431,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C50",
           "numberfaces": 15,
           "numbershells": 1,
@@ -419,7 +440,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C51",
           "numberfaces": 9,
           "numbershells": 1,
@@ -452,7 +473,7 @@
           "validity": false
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C53",
           "numberfaces": 7,
           "numbershells": 1,
@@ -461,7 +482,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C54",
           "numberfaces": 6,
           "numbershells": 1,
@@ -470,7 +491,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C55",
           "numberfaces": 6,
           "numbershells": 1,
@@ -479,7 +500,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C56",
           "numberfaces": 6,
           "numbershells": 1,
@@ -488,7 +509,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C57",
           "numberfaces": 16,
           "numbershells": 1,
@@ -497,7 +518,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C58",
           "numberfaces": 6,
           "numbershells": 1,
@@ -506,7 +527,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C59",
           "numberfaces": 7,
           "numbershells": 1,
@@ -515,7 +536,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C60",
           "numberfaces": 6,
           "numbershells": 1,
@@ -524,7 +545,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C61",
           "numberfaces": 7,
           "numbershells": 1,
@@ -533,7 +554,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C62",
           "numberfaces": 14,
           "numbershells": 1,
@@ -542,7 +563,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C63",
           "numberfaces": 14,
           "numbershells": 1,
@@ -551,7 +572,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C64",
           "numberfaces": 7,
           "numbershells": 1,
@@ -560,7 +581,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C65",
           "numberfaces": 6,
           "numbershells": 1,
@@ -569,7 +590,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C66",
           "numberfaces": 16,
           "numbershells": 1,
@@ -578,7 +599,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C67",
           "numberfaces": 6,
           "numbershells": 1,
@@ -587,7 +608,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C68",
           "numberfaces": 7,
           "numbershells": 1,
@@ -596,7 +617,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C69",
           "numberfaces": 14,
           "numbershells": 1,
@@ -605,7 +626,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C70",
           "numberfaces": 7,
           "numbershells": 1,
@@ -614,7 +635,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C71",
           "numberfaces": 6,
           "numbershells": 1,
@@ -623,7 +644,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C72",
           "numberfaces": 7,
           "numbershells": 1,
@@ -632,7 +653,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C73",
           "numberfaces": 6,
           "numbershells": 1,
@@ -641,7 +662,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C74",
           "numberfaces": 7,
           "numbershells": 1,
@@ -650,7 +671,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C75",
           "numberfaces": 17,
           "numbershells": 1,
@@ -659,7 +680,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C76",
           "numberfaces": 6,
           "numbershells": 1,
@@ -668,7 +689,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C77",
           "numberfaces": 6,
           "numbershells": 1,
@@ -677,7 +698,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C78",
           "numberfaces": 7,
           "numbershells": 1,
@@ -686,7 +707,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C79",
           "numberfaces": 7,
           "numbershells": 1,
@@ -695,7 +716,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C1",
           "numberfaces": 7,
           "numbershells": 1,
@@ -721,7 +742,7 @@
           "validity": false
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C2",
           "numberfaces": 6,
           "numbershells": 1,
@@ -730,7 +751,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C4",
           "numberfaces": 7,
           "numbershells": 1,
@@ -739,7 +760,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C32",
           "numberfaces": 7,
           "numbershells": 1,
@@ -748,7 +769,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C34",
           "numberfaces": 16,
           "numbershells": 2,
@@ -757,7 +778,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C3",
           "numberfaces": 6,
           "numbershells": 1,
@@ -766,7 +787,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C5",
           "numberfaces": 7,
           "numbershells": 1,
@@ -775,7 +796,7 @@
           "validity": true
         },
         {
-          "errors": null,
+          "errors": [],
           "id": "CG-C33",
           "numberfaces": 6,
           "numbershells": 1,
@@ -812,30 +833,30 @@
       "validity": false
     }
   ],
+  "features_overview": [
+    {
+      "total": 1,
+      "type": "IndoorModel",
+      "valid": 0
+    }
+  ],
   "input_file": "201-2019-05-24-corrected.gml",
-  "invalid_features": 1,
-  "invalid_primitives": 4,
-  "overlap_tol": 0.05,
-  "overview_errors": [
-    104,
-    401,
-    701,
-    703
+  "input_file_type": "IndoorGML",
+  "parameters": {
+    "overlap_tol": 0.005,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 80,
+      "type": "Solid",
+      "valid": 76
+    }
   ],
-  "overview_features": [
-    "IndoorModel"
-  ],
-  "overview_primitives": [
-    "Solid"
-  ],
-  "planarity_d2p_tol": 0.01,
-  "planarity_n_tol": 20.0,
-  "snap_tol": 0.001,
-  "time": "Sun Apr  5 11:31:55 2020 CEST",
-  "total_features": 1,
-  "total_primitives": 80,
-  "type": "val3dity report",
-  "val3dity_version": "2.2.0-beta.1",
-  "valid_features": 0,
-  "valid_primitives": 76
+  "time": "Sat Jul  4 09:15:00 2020 CEST",
+  "type": "val3dity_report",
+  "val3dity_version": "2.2.0",
+  "validity": false
 }

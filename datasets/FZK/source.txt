@@ -1,0 +1,2 @@
+
+Given to me by [Abdoulaye Diakité](https://www.be.unsw.edu.au/staff/dr-abdoulaye-diakite), he converted the FZK IFC file to IndoorGML himself.

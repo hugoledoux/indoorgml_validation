@@ -1,0 +1,863 @@
+{
+  "all_errors": [
+    104,
+    702,
+    703,
+    704
+  ],
+  "dataset_errors": [],
+  "features": [
+    {
+      "errors": [
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_0",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_1",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_10",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_11",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_12",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_13",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_14",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_15",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_16",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_17",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_18",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_19",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_2",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_20",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_21",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_22",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_23",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_3",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_4",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_5",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_6",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_7",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_8",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 702,
+          "description": "DUAL_VERTEX_OUTSIDE_CELL",
+          "id": "CellSpace id=CS_2142020163114_9",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_0",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_1",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_10",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_11",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_12",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_13",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_14",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_15",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_16",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_17",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_18",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_19",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_2",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_20",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_21",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_22",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_23",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_3",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_4",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_5",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_6",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_7",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_8",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 703,
+          "description": "PRIMAL_DUAL_XLINKS_ERROR",
+          "id": "CellSpace id=CS_2142020163114_9",
+          "info": "The dual graph is not in the file.",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_0 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_1 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_10 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_11 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_12 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_13 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_14 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_15 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_16 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_17 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_18 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_19 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_2 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_20 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_21 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_22 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_23 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_3 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_4 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_5 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_6 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_7 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_8 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        },
+        {
+          "code": 704,
+          "description": "PRIMAL_DUAL_ADJACENCIES_INCONSISTENT",
+          "id": "Cell id=CS_2142020163114_9 dual vertex doesn't exist",
+          "info": "",
+          "type": "Error"
+        }
+      ],
+      "id": "s20e31e4-137e-61cf-539e-897c06737748",
+      "primitives": [
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_0",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_1",
+          "numberfaces": 16,
+          "numbershells": 1,
+          "numbervertices": 28,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_10",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 14,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_11",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_12",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 14,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_13",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_14",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_15",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "1",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "2",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "8",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "13",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_16",
+          "numberfaces": 14,
+          "numbershells": 1,
+          "numbervertices": 63,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "4",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_17",
+          "numberfaces": 8,
+          "numbershells": 1,
+          "numbervertices": 20,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "2",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "3",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_18",
+          "numberfaces": 9,
+          "numbershells": 1,
+          "numbervertices": 26,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "3",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "7",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_19",
+          "numberfaces": 9,
+          "numbershells": 1,
+          "numbervertices": 26,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_2",
+          "numberfaces": 16,
+          "numbershells": 1,
+          "numbervertices": 28,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_20",
+          "numberfaces": 17,
+          "numbershells": 1,
+          "numbervertices": 57,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_21",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "2",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "6",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_22",
+          "numberfaces": 12,
+          "numbershells": 1,
+          "numbervertices": 38,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "2",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            },
+            {
+              "code": 104,
+              "description": "RING_SELF_INTERSECTION",
+              "id": "3",
+              "info": "ring self-intersects or is collapsed to a line",
+              "type": "Error"
+            }
+          ],
+          "id": "CG-CS_2142020163114_23",
+          "numberfaces": 10,
+          "numbershells": 1,
+          "numbervertices": 25,
+          "type": "Solid",
+          "validity": false
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_3",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_4",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_5",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 12,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_6",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_7",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_8",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        },
+        {
+          "errors": [],
+          "id": "CG-CS_2142020163114_9",
+          "numberfaces": 6,
+          "numbershells": 1,
+          "numbervertices": 10,
+          "type": "Solid",
+          "validity": true
+        }
+      ],
+      "type": "IndoorModel",
+      "validity": false
+    }
+  ],
+  "features_overview": [
+    {
+      "total": 1,
+      "type": "IndoorModel",
+      "valid": 0
+    }
+  ],
+  "input_file": "FZK-Haus_full.gml",
+  "input_file_type": "IndoorGML",
+  "parameters": {
+    "overlap_tol": -1.0,
+    "planarity_d2p_tol": 0.01,
+    "planarity_n_tol": 20.0,
+    "snap_tol": 0.001
+  },
+  "primitives_overview": [
+    {
+      "total": 24,
+      "type": "Solid",
+      "valid": 18
+    }
+  ],
+  "time": "Tue Jun 30 14:31:20 2020 CEST",
+  "type": "val3dity_report",
+  "val3dity_version": "2.2.0",
+  "validity": false
+}

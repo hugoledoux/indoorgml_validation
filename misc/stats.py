@@ -11,7 +11,7 @@ n703 = 0
 n704 = 0
 
 f = j['features'][0]
-for e in f['errors_feature']:
+for e in f['errors']:
     if e['code'] == 701:
         n701 += 1
     if e['code'] == 702:
